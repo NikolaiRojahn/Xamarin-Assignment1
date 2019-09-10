@@ -1,0 +1,13 @@
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\bin\Debug\netstandard2.0\Assignment1.deps.json
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\bin\Debug\netstandard2.0\Assignment1.dll
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\bin\Debug\netstandard2.0\Assignment1.pdb
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\Assignment1.csprojAssemblyReference.cache
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\Assignment1.AssemblyInfo.cs
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\Assignment1.dll
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\Assignment1.pdb
+C:\Users\nr\Documents\NetBeansProjects\4_Semester\Apps\Assignment1\Assignment1\Assignment1\obj\Debug\netstandard2.0\NoteEntryEditPage.xaml.g.cs
